@@ -1,1 +1,1 @@
-Implementation of "MetaFusion: Infrared and Visible Image Fusion via Meta-Feature Embedding from Object Detection" in PyTorch. The code will be released very soon.
+Implementation of "Nowhere to Disguise: Spot Camouflaged Objects via Saliency Attribute Transfer" in PyTorch. The code will be released very soon.
